@@ -1,0 +1,28 @@
+{
+  "comments": [
+    {
+      "body": "heilow my name is vijendra",
+      "username": "Vijendra",
+      "userId": "1",
+      "parentId": null,
+      "createdAt": "2022-05-11T09:17:39.515Z",
+      "id": 1
+    },
+    {
+      "body": "hi jatindaea\n",
+      "username": "Vijendra",
+      "userId": "1",
+      "parentId": 1,
+      "createdAt": "2022-05-11T09:17:51.987Z",
+      "id": 2
+    },
+    {
+      "body": "alskdjf laskdjf laksd flksjd fl",
+      "username": "Vijendra",
+      "userId": "1",
+      "parentId": 2,
+      "createdAt": "2022-05-11T09:22:08.021Z",
+      "id": 3
+    }
+  ]
+}
